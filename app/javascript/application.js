@@ -2,4 +2,5 @@
 import "@hotwired/turbo-rails"
 import "popper"
 import "bootstrap"
+import "./theme_switcher"
 import "controllers"
